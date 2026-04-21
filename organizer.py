@@ -18,3 +18,4 @@ for file in files:
         shutil.move(file, "Videos/" + file)
 
 print("Files organized successfully!")
+print("Automation completed 🚀")
